@@ -21,7 +21,7 @@ This project implements an **Inventory Management System** developed in **Java**
 ## Installation
 
 1. Clone this repository to your local machine: git clone https://github.com/yourusername/inventory-management-system.git
-2. 2. Make sure you have **Java** and **NetBeans IDE** installed.
+2. Make sure you have **Java** and **NetBeans IDE** installed.
 3. Install **MySQL** and create a database for the system.
 4. Add the `ojdbc7.jar` JDBC driver to your project dependencies. This is necessary for MySQL connectivity.
 5. Set up the MySQL database by importing the provided **SQL scripts** for creating the required tables.
